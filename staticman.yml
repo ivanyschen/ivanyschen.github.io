@@ -1,0 +1,8 @@
+allowedFields: ['name', 'comment']
+branch: master
+commitMessage: "Hey human, here is a new entry."
+filename: "entry-{options.slug}-{@timestamp}"
+format: yml
+moderation: false
+path: "data"
+requiredFields: ['name', 'comment']
