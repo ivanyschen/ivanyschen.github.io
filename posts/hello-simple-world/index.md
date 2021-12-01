@@ -11,7 +11,7 @@
 
 Simple is complex.
 
-<form method="POST" action="https://api.staticman.net/v3/entry/github/ivanyschen/ivanyschen.github.io/master/comments">
+<form method="POST" action="https://staticman-simple-is-complex.herokuapp.com/v3/entry/github/ivanyschen/ivanyschen.github.io/master/comments">
   <input name="options[redirect]" type="hidden" value="https://my-site.com">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
