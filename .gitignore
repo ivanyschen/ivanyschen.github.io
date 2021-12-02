@@ -1,0 +1,7 @@
+venv
+cache
+.doit.db*
+__pycache__
+conf.py
+output/
+posts/*.md
