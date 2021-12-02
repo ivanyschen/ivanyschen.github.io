@@ -9,8 +9,8 @@
 .. type: text
 -->
 
-Simple is complex.
-
+Simple is complex.  
+This is another simple line.
 <form method="POST" action="https://staticman-simple-is-complex.herokuapp.com/v3/entry/github/ivanyschen/ivanyschen.github.io/master/comments">
   <input name="options[redirect]" type="hidden" value="https://ivanyschen.github.io">
   <!-- e.g. "2016-01-02-this-is-a-post" -->
