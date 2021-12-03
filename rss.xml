@@ -1,15 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simple is Complex</title><link>https://example.com/</link><description>Hello!</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:ivanyschen@berkeley.edu"&gt;Ivan Chen&lt;/a&gt; </copyright><lastBuildDate>Fri, 03 Dec 2021 19:41:16 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello Simple World</title><link>https://example.com/posts/hello-simple-world/</link><dc:creator>Ivan Chen</dc:creator><description>&lt;p&gt;Simple is complex.&lt;br&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Simple is Complex</title><link>https://example.com/</link><description>Hello!</description><atom:link href="https://example.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2021 &lt;a href="mailto:ivanyschen@berkeley.edu"&gt;Ivan Chen&lt;/a&gt; </copyright><lastBuildDate>Fri, 03 Dec 2021 23:04:06 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Hello Simple World</title><link>https://example.com/posts/hello-simple-world/</link><dc:creator>Ivan Chen</dc:creator><description>&lt;p&gt;Simple is complex.&lt;br&gt;
 This is another simple line.&lt;br&gt;
 This is another simple line.
-This is another simple line.&lt;/p&gt;
-&lt;form method="POST" action="https://staticman-simple-is-complex.herokuapp.com/v3/entry/github/ivanyschen/ivanyschen.github.io/master/comments"&gt;
-  &lt;input name="options[redirect]" type="hidden" value="https://ivanyschen.github.io"&gt;
-  &lt;!-- e.g. "2016-01-02-this-is-a-post" --&gt;
-  &lt;input name="options[slug]" type="hidden" value="{{ page.slug }}"&gt;
-  &lt;label&gt;&lt;input name="fields[name]" type="text"&gt;Name&lt;/label&gt;
-  &lt;label&gt;&lt;input name="fields[email]" type="email"&gt;E-mail&lt;/label&gt;
-  &lt;label&gt;&lt;textarea name="fields[message]"&gt;&lt;/textarea&gt;Message&lt;/label&gt;
-
-  &lt;button type="submit"&gt;Go!&lt;/button&gt;
-&lt;/form&gt;</description><guid>https://example.com/posts/hello-simple-world/</guid><pubDate>Wed, 01 Dec 2021 23:01:56 GMT</pubDate></item></channel></rss>
+This is another simple line.&lt;/p&gt;</description><guid>https://example.com/posts/hello-simple-world/</guid><pubDate>Wed, 01 Dec 2021 23:01:56 GMT</pubDate></item></channel></rss>
